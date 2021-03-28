@@ -1,0 +1,17 @@
+{
+  "title": "<MHA TUP V1>",
+  "description": "<MHA TUP V1>",
+  "artist": "<Yoko Akiyama>",
+  "author": "<Yoko Akiyama>",
+  "cover": "<mangacoverurl.jpg>",
+  "chapters": {
+    "<1-3.3>": {
+      "title": "<chapter name>",
+      "volume": "<01>",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/<J683RO4>/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
