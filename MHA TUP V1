@@ -5,11 +5,11 @@
   "author": "Yoko Akiyama",
   "cover": "https://i.imgur.com/VJ2pGVr.jpg",
   "chapters": {
-    "<1-3.3>": {
-      "title": "<chapter name>",
-      "volume": "<01>",
+    "1-3.3": {
+      "title": "Misc",
+      "volume": "01",
       "groups": {
-        "<group name>": "/proxy/api/imgur/chapter/<J683RO4>/"
+        "Official": "/proxy/api/imgur/chapter/J683RO4/"
       },
       "last_updated": "1616368746"
     }
