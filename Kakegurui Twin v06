@@ -5,9 +5,9 @@
   "author": "Kei Saiki",
   "cover": "<mangacoverurl.jpg>",
   "chapters": {
-    "91011121314": {
-      "title": "Volume 03",
-      "volume": "03",
+    "232425262728": {
+      "title": "Volume 06",
+      "volume": "06",
       "groups": {
         "Official": "/proxy/api/imgur/chapter/<imgur id>/"
       },
