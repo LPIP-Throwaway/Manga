@@ -1,0 +1,17 @@
+{
+  "title": "Kakegurui Twin",
+  "description": "Kakegurui Prequel",
+  "artist": "Homura Kawamoto",
+  "author": "Kei Saiki",
+  "cover": "<mangacoverurl.jpg>",
+  "chapters": {
+    "45678": {
+      "title": "Volume 2",
+      "volume": "02",
+      "groups": {
+        "Official": "/proxy/api/imgur/chapter/<imgur id>/"
+      },
+      "last_updated": "1616368746"
+    },
+  }
+}
