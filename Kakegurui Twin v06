@@ -3,13 +3,13 @@
   "description": "Kakegurui Prequel",
   "artist": "Homura Kawamoto",
   "author": "Kei Saiki",
-  "cover": "https://i.imgur.com/FRotJ2Q.jpg",
+  "cover": "https://i.imgur.com/ogVfRaq.jpg",
   "chapters": {
     "28": {
       "title": "Volume 06",
       "volume": "06",
       "groups": {
-        "Official": "/proxy/api/imgur/chapter/GDLyUjS/"
+        "Official": "/proxy/api/imgur/chapter/OTVaC2c/"
       },
       "last_updated": "1616368746"
     }
