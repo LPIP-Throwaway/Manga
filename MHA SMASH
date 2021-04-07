@@ -1,0 +1,49 @@
+{
+  "title": "My Hero Academia SMASH",
+  "description": "MHA 4 Koma",
+  "artist": "Hirofumi Neda",
+  "author": "Hirofumi Neda",
+  "cover": "<mangacoverurl.jpg>",
+  "chapters": {
+    "20": {
+      "title": "Volume 1",
+      "volume": "01",
+      "groups": {
+        "Offical": "/proxy/api/imgur/chapter/<imgur id>/"
+      },
+      "last_updated": "1616368746"
+    },
+       "<chapter number>": {
+      "title": "<chapter name>",
+      "volume": "<volume number>",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/<imgur id>/"
+      },
+      "last_updated": "1616368746"
+    },
+       "<chapter number>": {
+      "title": "<chapter name>",
+      "volume": "<volume number>",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/<imgur id>/"
+      },
+      "last_updated": "1616368746"
+    },
+       "<chapter number>": {
+      "title": "<chapter name>",
+      "volume": "<volume number>",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/<imgur id>/"
+      },
+      "last_updated": "1616368746"
+    },
+       "<chapter number>": {
+      "title": "<chapter name>",
+      "volume": "<volume number>",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/<imgur id>/"
+      },
+      "last_updated": "1616368746"
+    },
+  }
+}
