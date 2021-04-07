@@ -13,37 +13,37 @@
       },
       "last_updated": "1616368746"
     },
-       "<chapter number>": {
-      "title": "<chapter name>",
-      "volume": "<volume number>",
+       "37": {
+      "title": "Volume 2",
+      "volume": "02",
       "groups": {
-        "<group name>": "/proxy/api/imgur/chapter/<imgur id>/"
+        "Official": "/proxy/api/imgur/chapter/<imgur id>/"
       },
       "last_updated": "1616368746"
     },
-       "<chapter number>": {
-      "title": "<chapter name>",
-      "volume": "<volume number>",
+       "57": {
+      "title": "Volume 3",
+      "volume": "03",
       "groups": {
-        "<group name>": "/proxy/api/imgur/chapter/<imgur id>/"
+        "Official": "/proxy/api/imgur/chapter/<imgur id>/"
       },
       "last_updated": "1616368746"
     },
-       "<chapter number>": {
-      "title": "<chapter name>",
-      "volume": "<volume number>",
+       "76": {
+      "title": "Volume 4",
+      "volume": "04",
       "groups": {
-        "<group name>": "/proxy/api/imgur/chapter/<imgur id>/"
+        "Official": "/proxy/api/imgur/chapter/<imgur id>/"
       },
       "last_updated": "1616368746"
     },
-       "<chapter number>": {
-      "title": "<chapter name>",
-      "volume": "<volume number>",
+       "94": {
+      "title": "Volume 5",
+      "volume": "05",
       "groups": {
-        "<group name>": "/proxy/api/imgur/chapter/<imgur id>/"
+        "Official": "/proxy/api/imgur/chapter/<imgur id>/"
       },
       "last_updated": "1616368746"
-    },
+    }
   }
 }
