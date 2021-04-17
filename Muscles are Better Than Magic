@@ -1,0 +1,17 @@
+{
+  "title": "Muscles are Better Than Magic",
+  "description": "Muscles are Better Than Magic",
+  "artist": "Kouji Onodera",
+  "author": "Doraneko",
+  "cover": "https://i.imgur.com/IcDo1XA.jpg",
+  "chapters": {
+    "05": {
+      "title": "Volume 01",
+      "volume": "01",
+      "groups": {
+        "Official": "/proxy/api/imgur/chapter/VO6LTYP/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
