@@ -1,0 +1,25 @@
+{
+  "title": "Welcome to Succubus High",
+  "description": "Manga",
+  "artist": "Knuckle Curve",
+  "author": "Knuckle Curve",
+  "cover": "https://i.imgur.com/8TYPBIB.jpg",
+  "chapters": {
+    "6": {
+      "title": "Volume 01",
+      "volume": "01",
+      "groups": {
+        "Official": "/proxy/api/imgur/chapter/T0C04n5/"
+      },
+      "last_updated": "1616368746"
+    },
+      "12": {
+      "title": "Volume 2",
+      "volume": "02",
+      "groups": {
+        "Official": "/proxy/api/imgur/chapter/zEdCXay/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
