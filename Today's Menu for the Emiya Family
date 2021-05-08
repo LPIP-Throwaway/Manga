@@ -1,0 +1,33 @@
+{
+  "title": "Today's Menu for the Emiya Family",
+  "description": "Manga",
+  "artist": "TAa",
+  "author": "TYPE-MOON",
+  "cover": "https://i.imgur.com/5QLgBjO.jpg",
+  "chapters": {
+    "09": {
+      "title": "Volume 01",
+      "volume": "01",
+      "groups": {
+        "Official": "/proxy/api/imgur/chapter/AqLQckE/"
+      },
+      "last_updated": "1616368746"
+    },
+    "17": {
+      "title": "Volume 02",
+      "volume": "02",
+      "groups": {
+        "Official": "/proxy/api/imgur/chapter/zCjLOvv/"
+      },
+      "last_updated": "1616368746"
+    },
+    "24": {
+      "title": "Volume 03",
+      "volume": "03",
+      "groups": {
+        "Official": "/proxy/api/imgur/chapter/GjWU5yi/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
