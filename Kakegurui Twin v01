@@ -5,11 +5,75 @@
   "author": "Kei Saiki",
   "cover": "https://i.imgur.com/TSSG2S2.jpg",
   "chapters": {
-    "3": {
+    "03": {
       "title": "Volume 01",
       "volume": "01",
       "groups": {
         "Official": "/proxy/api/imgur/chapter/MK1WIEf/"
+      },
+      "last_updated": "1616368746"
+    },
+     "08": {
+      "title": "Volume 02",
+      "volume": "02",
+      "groups": {
+        "Official": "/proxy/api/imgur/chapter/7yQSGY3/"
+      },
+      "last_updated": "1616368746"
+    },
+     "14": {
+      "title": "Volume 03",
+      "volume": "03",
+      "groups": {
+        "Official": "/proxy/api/imgur/chapter/5GmJtLF/"
+      },
+      "last_updated": "1616368746"
+    },
+     "18": {
+      "title": "Volume 04",
+      "volume": "04",
+      "groups": {
+        "Official": "/proxy/api/imgur/chapter/Chei6IX/"
+      },
+      "last_updated": "1616368746"
+    },
+     "22": {
+      "title": "Volume 05",
+      "volume": "05",
+      "groups": {
+        "Official": "/proxy/api/imgur/chapter/DbFCFdD/"
+      },
+      "last_updated": "1616368746"
+    },
+     "28": {
+      "title": "Volume 06",
+      "volume": "06",
+      "groups": {
+        "Official": "/proxy/api/imgur/chapter/OTVaC2c/"
+      },
+      "last_updated": "1616368746"
+    },
+     "34": {
+      "title": "Volume 07",
+      "volume": "07",
+      "groups": {
+        "Official": "/proxy/api/imgur/chapter/KRxZShw/"
+      },
+      "last_updated": "1616368746"
+    },
+     "41": {
+      "title": "Volume 08",
+      "volume": "08",
+      "groups": {
+        "Official": "/proxy/api/imgur/chapter/UpQyE3q/"
+      },
+      "last_updated": "1616368746"
+    },
+     "48": {
+      "title": "Volume 09",
+      "volume": "09",
+      "groups": {
+        "Official": "/proxy/api/imgur/chapter/v4nLqxW/"
       },
       "last_updated": "1616368746"
     }
