@@ -1,0 +1,25 @@
+{
+  "title": "Slasher Maidens",
+  "description": "Manga",
+  "artist": "Tetsuya Tashiro",
+  "author": "Tetsuya Tashiro",
+  "cover": "https://i.imgur.com/xvSmF56.jpg",
+  "chapters": {
+    "05": {
+      "title": "Volume 01",
+      "volume": "01",
+      "groups": {
+        "Official": "/proxy/api/imgur/chapter/WFSIGaC/"
+      },
+      "last_updated": "1616368746"
+    },
+     "09": {
+      "title": "Volume 02",
+      "volume": "02",
+      "groups": {
+        "Official": "/proxy/api/imgur/chapter/IMGBRMB/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
