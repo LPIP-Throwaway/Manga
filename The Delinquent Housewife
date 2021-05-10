@@ -1,0 +1,41 @@
+{
+  "title": "The Delinquent Housewife",
+  "description": "Manga",
+  "artist": "Nemu Yoko",
+  "author": "Nemu Yoko",
+  "cover": "https://i.imgur.com/YQlS6MH.jpg",
+  "chapters": {
+    "08": {
+      "title": "Volume 01",
+      "volume": "01",
+      "groups": {
+        "Official": "/proxy/api/imgur/chapter/g3DoELU/"
+      },
+      "last_updated": "1616368746"
+    },
+    "19": {
+      "title": "Volume 02",
+      "volume": "02",
+      "groups": {
+        "Official": "/proxy/api/imgur/chapter/EwinTLg/"
+      },
+      "last_updated": "1616368746"
+    },
+    "30": {
+      "title": "Volume 03",
+      "volume": "03",
+      "groups": {
+        "Official": "/proxy/api/imgur/chapter/<imgur id>/"
+      },
+      "last_updated": "1616368746"
+    },
+    "41": {
+      "title": "Volume 04",
+      "volume": "04",
+      "groups": {
+        "Official": "/proxy/api/imgur/chapter/<imgur id>/"
+      },
+      "last_updated": "1616368746"
+    },
+  }
+}
