@@ -1,0 +1,17 @@
+{
+  "title": "Sex Ed 120%",
+  "description": "Manga",
+  "artist": "Hotomura",
+  "author": "Kikiki Tataki",
+  "cover": "https://i.imgur.com/0yhUe81.jpg",
+  "chapters": {
+    "06": {
+      "title": "Volume 01",
+      "volume": "01",
+      "groups": {
+        "Official": "/proxy/api/imgur/chapter/99VhisB/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
