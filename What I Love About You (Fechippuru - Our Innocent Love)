@@ -25,7 +25,7 @@
       "title": "Volume 03",
       "volume": "03",
       "groups": {
-        "Official": "/proxy/api/imgur/chapter/<imgur id>/"
+        "Official": "/proxy/api/imgur/chapter/U2Poh4B/"
       },
       "last_updated": "1616368746"
     },
@@ -33,7 +33,7 @@
       "title": "Volume 04",
       "volume": "04",
       "groups": {
-        "Official": "/proxy/api/imgur/chapter/<imgur id>/"
+        "Official": "/proxy/api/imgur/chapter/mn8QtGC/"
       },
       "last_updated": "1616368746"
     },
@@ -41,9 +41,9 @@
       "title": "Volume 05",
       "volume": "05",
       "groups": {
-        "Official": "/proxy/api/imgur/chapter/<imgur id>/"
+        "Official": "/proxy/api/imgur/chapter/wml7XzS/"
       },
       "last_updated": "1616368746"
-    },
+    }
   }
 }
