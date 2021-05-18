@@ -1,0 +1,49 @@
+{
+  "title": "What I Love About You (Fechipurru - Our Innocent Love)",
+  "description": "Manga",
+  "artist": "Zurachy Rurihara",
+  "author": "Zurachy Rurihara",
+  "cover": "<mangacoverurl.jpg>",
+  "chapters": {
+    "10": {
+      "title": "Volume 01",
+      "volume": "01",
+      "groups": {
+        "Official": "/proxy/api/imgur/chapter/<imgur id>/"
+      },
+      "last_updated": "1616368746"
+    },
+    "24": {
+      "title": "Volume 02",
+      "volume": "02",
+      "groups": {
+        "Official": "/proxy/api/imgur/chapter/<imgur id>/"
+      },
+      "last_updated": "1616368746"
+    },
+    "39": {
+      "title": "Volume 03",
+      "volume": "03",
+      "groups": {
+        "Official": "/proxy/api/imgur/chapter/<imgur id>/"
+      },
+      "last_updated": "1616368746"
+    },
+    "55": {
+      "title": "Volume 04",
+      "volume": "04",
+      "groups": {
+        "Official": "/proxy/api/imgur/chapter/<imgur id>/"
+      },
+      "last_updated": "1616368746"
+    },
+    "73": {
+      "title": "Volume 05",
+      "volume": "05",
+      "groups": {
+        "Official": "/proxy/api/imgur/chapter/<imgur id>/"
+      },
+      "last_updated": "1616368746"
+    },
+  }
+}
