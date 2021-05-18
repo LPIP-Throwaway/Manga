@@ -3,13 +3,13 @@
   "description": "Manga",
   "artist": "Zurachy Rurihara",
   "author": "Zurachy Rurihara",
-  "cover": "<mangacoverurl.jpg>",
+  "cover": "https://i.imgur.com/BSx8VAd.jpg",
   "chapters": {
     "10": {
       "title": "Volume 01",
       "volume": "01",
       "groups": {
-        "Official": "/proxy/api/imgur/chapter/<imgur id>/"
+        "Official": "/proxy/api/imgur/chapter/11Ns1sq/"
       },
       "last_updated": "1616368746"
     },
