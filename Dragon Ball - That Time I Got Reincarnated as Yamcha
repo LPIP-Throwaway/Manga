@@ -1,0 +1,17 @@
+{
+  "title": "Dragon Ball That Time I Got Reincarnated as Yamcha",
+  "description": "Manga",
+  "artist": "Dragongarow Lee",
+  "author": "Dragongarow Lee",
+  "cover": "https://i.imgur.com/2K9Kl8a.jpg",
+  "chapters": {
+    "05": {
+      "title": "Chapters 01 Thru 03 and Bonus",
+      "volume": "01",
+      "groups": {
+        "Official": "/proxy/api/imgur/chapter/vHbPmgj/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
