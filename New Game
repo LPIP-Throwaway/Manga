@@ -1,0 +1,17 @@
+{
+  "title": "New Game",
+  "description": "Manga",
+  "artist": "Shotaro Tokuno",
+  "author": "Shotaro Tokuno",
+  "cover": "https://i.imgur.com/KbnJBnQ.jpg",
+  "chapters": {
+    "128": {
+      "title": "Volume 11",
+      "volume": "11",
+      "groups": {
+        "Official": "/proxy/api/imgur/chapter/0nOEDsR/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
