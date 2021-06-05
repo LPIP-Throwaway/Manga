@@ -13,19 +13,19 @@
       },
       "last_updated": "1616368746"
     },
-     "<chapter number>": {
-      "title": "<chapter name>",
-      "volume": "<volume number>",
+     "015": {
+      "title": "Volume 02",
+      "volume": "02",
       "groups": {
-        "<group name>": "/proxy/api/imgur/chapter/<imgur id>/"
+        "Hokuto no Gun": "/proxy/api/imgur/chapter/GwazKYm/"
       },
       "last_updated": "1616368746"
     },
-     "<chapter number>": {
-      "title": "<chapter name>",
-      "volume": "<volume number>",
+     "023": {
+      "title": "Volume 03",
+      "volume": "03",
       "groups": {
-        "<group name>": "/proxy/api/imgur/chapter/<imgur id>/"
+        "Hokuto no Gun": "/proxy/api/imgur/chapter/zfuZPF2/"
       },
       "last_updated": "1616368746"
     },
