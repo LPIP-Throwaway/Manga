@@ -1,0 +1,17 @@
+{
+  "title": "Kengan Ashura",
+  "description": "Manga",
+  "artist": "Sandrovich Yabako",
+  "author": "Daromeon",
+  "cover": "<ADD>",
+  "chapters": {
+    "006": {
+      "title": "Volume 01",
+      "volume": "01",
+      "groups": {
+        "Hokuto no Gun": "/proxy/api/imgur/chapter/<imgur id>/"
+      },
+      "last_updated": "1616368746"
+    },
+  }
+}
