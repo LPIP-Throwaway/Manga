@@ -53,11 +53,11 @@
       },
       "last_updated": "1616368746"
     },
-     "<chapter number>": {
-      "title": "<chapter name>",
-      "volume": "<volume number>",
+     "057": {
+      "title": "Volume 07",
+      "volume": "07",
       "groups": {
-        "<group name>": "/proxy/api/imgur/chapter/<imgur id>/"
+        "Hokuto no Gun": "/proxy/api/imgur/chapter/lZJmV25/"
       },
       "last_updated": "1616368746"
     },
