@@ -157,41 +157,41 @@
       },
       "last_updated": "1616368746"
     },
-     "<chapter number>": {
-      "title": "<chapter name>",
-      "volume": "<volume number>",
+     "162": {
+      "title": "Volume 19",
+      "volume": "19",
       "groups": {
         "Hokuto no Gun": "/proxy/api/imgur/chapter/<imgur id>/"
       },
       "last_updated": "1616368746"
     },
-     "<chapter number>": {
-      "title": "<chapter name>",
-      "volume": "<volume number>",
+     "171": {
+      "title": "Volume 20",
+      "volume": "20",
       "groups": {
         "Hokuto no Gun": "/proxy/api/imgur/chapter/<imgur id>/"
       },
       "last_updated": "1616368746"
     },
-     "<chapter number>": {
-      "title": "<chapter name>",
-      "volume": "<volume number>",
+     "180": {
+      "title": "Volume 21",
+      "volume": "21",
       "groups": {
         "Hokuto no Gun": "/proxy/api/imgur/chapter/<imgur id>/"
       },
       "last_updated": "1616368746"
     },
-     "<chapter number>": {
-      "title": "<chapter name>",
-      "volume": "<volume number>",
+     "190": {
+      "title": "Volume 22",
+      "volume": "22",
       "groups": {
         "Hokuto no Gun": "/proxy/api/imgur/chapter/<imgur id>/"
       },
       "last_updated": "1616368746"
     },
-     "<chapter number>": {
-      "title": "<chapter name>",
-      "volume": "<volume number>",
+     "200": {
+      "title": "Volume 23",
+      "volume": "23",
       "groups": {
         "Hokuto no Gun": "/proxy/api/imgur/chapter/<imgur id>/"
       },
