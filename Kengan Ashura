@@ -3,13 +3,13 @@
   "description": "Manga",
   "artist": "Sandrovich Yabako",
   "author": "Daromeon",
-  "cover": "https://i.imgur.com/TMWKv1u.png",
+  "cover": "https://i.imgur.com/wjtVcAG.png",
   "chapters": {
     "006": {
       "title": "Volume 01",
       "volume": "01",
       "groups": {
-        "Hokuto no Gun": "/proxy/api/imgur/chapter/XRrtjb3/"
+        "Hokuto no Gun": "/proxy/api/imgur/chapter/z3fUASf/"
       },
       "last_updated": "1616368746"
     },
@@ -17,7 +17,7 @@
       "title": "Volume 02",
       "volume": "02",
       "groups": {
-        "Hokuto no Gun": "/proxy/api/imgur/chapter/GwazKYm/"
+        "Hokuto no Gun": "/proxy/api/imgur/chapter//"
       },
       "last_updated": "1616368746"
     },
@@ -25,7 +25,7 @@
       "title": "Volume 03",
       "volume": "03",
       "groups": {
-        "Hokuto no Gun": "/proxy/api/imgur/chapter/zfuZPF2/"
+        "Hokuto no Gun": "/proxy/api/imgur/chapter//"
       },
       "last_updated": "1616368746"
     },
@@ -33,7 +33,7 @@
       "title": "Volume 04",
       "volume": "04",
       "groups": {
-        "Hokuto no Gun": "/proxy/api/imgur/chapter/CO1PCbt/"
+        "Hokuto no Gun": "/proxy/api/imgur/chapter//"
       },
       "last_updated": "1616368746"
     },
@@ -41,7 +41,7 @@
       "title": "Volume 05",
       "volume": "05",
       "groups": {
-        "Hokuto no Gun": "/proxy/api/imgur/chapter/LYPNCEG/"
+        "Hokuto no Gun": "/proxy/api/imgur/chapter//"
       },
       "last_updated": "1616368746"
     },
@@ -49,7 +49,7 @@
       "title": "Volume 06",
       "volume": "06",
       "groups": {
-        "Hokuto no Gun": "/proxy/api/imgur/chapter/b3eq7UO/"
+        "Hokuto no Gun": "/proxy/api/imgur/chapter//"
       },
       "last_updated": "1616368746"
     },
@@ -57,7 +57,7 @@
       "title": "Volume 07",
       "volume": "07",
       "groups": {
-        "Hokuto no Gun": "/proxy/api/imgur/chapter/lZJmV25/"
+        "Hokuto no Gun": "/proxy/api/imgur/chapter//"
       },
       "last_updated": "1616368746"
     },
@@ -65,7 +65,7 @@
       "title": "Volume 08",
       "volume": "08",
       "groups": {
-        "Hokuto no Gun": "/proxy/api/imgur/chapter/1FmTFk1/"
+        "Hokuto no Gun": "/proxy/api/imgur/chapter//"
       },
       "last_updated": "1616368746"
     },
@@ -73,7 +73,7 @@
       "title": "Volume 09",
       "volume": "09",
       "groups": {
-        "Hokuto no Gun": "/proxy/api/imgur/chapter/x4P4NdR/"
+        "Hokuto no Gun": "/proxy/api/imgur/chapter//"
       },
       "last_updated": "1616368746"
     },
@@ -81,7 +81,7 @@
       "title": "Volume 10",
       "volume": "10",
       "groups": {
-        "Hokuto no Gun": "/proxy/api/imgur/chapter/O6ilsJP/"
+        "Hokuto no Gun": "/proxy/api/imgur/chapter//"
       },
       "last_updated": "1616368746"
     },
