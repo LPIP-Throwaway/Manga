@@ -1,0 +1,17 @@
+{
+  "title": "Title",
+  "description": "Desc",
+  "artist": "Artist",
+  "author": "Author",
+  "cover": "<mangacoverurl.jpg>",
+  "chapters": {
+    "06": {
+      "title": "Volume 01",
+      "volume": "01",
+      "groups": {
+        "Group": "/proxy/api/imgur/chapter/<imgur id>/"
+      },
+      "last_updated": "1616368746"
+    },
+  }
+}
