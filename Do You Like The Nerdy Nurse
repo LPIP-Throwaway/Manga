@@ -1,0 +1,17 @@
+{
+  "title": "Do You Like The Nerdy Nurse",
+  "description": "Nerdy Nurse Manga",
+  "artist": "Arata Kawabata",
+  "author": "Arata Kawabata",
+  "cover": "<mangacoverurl.jpg>",
+  "chapters": {
+    "22": {
+      "title": "Omnibus Edition",
+      "volume": "01",
+      "groups": {
+        "Official": "/proxy/api/imgur/chapter/<imgur id>/"
+      },
+      "last_updated": "1616368746"
+    },
+  }
+}
