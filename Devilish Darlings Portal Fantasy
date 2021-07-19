@@ -9,9 +9,9 @@
       "title": "Complete Series",
       "volume": "01",
       "groups": {
-        "Official": "/proxy/api/imgur/chapter/<imgur id>/"
+        "Official": "/proxy/api/imgbox/chapter/<imgur id>/"
       },
       "last_updated": "1616368746"
-    },
+    }
   }
 }
