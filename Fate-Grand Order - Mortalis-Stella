@@ -1,0 +1,17 @@
+{
+  "title": "Fate-Grand Order - Mortalis-Stella",
+  "description": "Manga",
+  "artist": "Shiramine",
+  "author": "Type-Moon",
+  "cover": "https://images2.imgbox.com/c0/d4/StFaN3sb_o.jpg",
+  "chapters": {
+    "04": {
+      "title": "Volume 01",
+      "volume": "01",
+      "groups": {
+        "Official": "/proxy/api/imgbox/chapter/dPlCF41MLD/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
