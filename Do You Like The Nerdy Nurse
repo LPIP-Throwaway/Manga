@@ -3,15 +3,15 @@
   "description": "Nerdy Nurse Manga",
   "artist": "Arata Kawabata",
   "author": "Arata Kawabata",
-  "cover": "<mangacoverurl.jpg>",
+  "cover": "https://images2.imgbox.com/f9/59/oYFegL18_o.jpg",
   "chapters": {
     "22": {
       "title": "Omnibus Edition",
       "volume": "01",
       "groups": {
-        "Official": "/proxy/api/imgur/chapter/<imgur id>/"
+        "Official": "/proxy/api/imgbox/chapter/ZsVuViPszN/"
       },
       "last_updated": "1616368746"
-    },
+    }
   }
 }
