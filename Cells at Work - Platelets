@@ -1,0 +1,17 @@
+{
+  "title": "Cells at Work - Platelets",
+  "description": "Manga",
+  "artist": "Yasu",
+  "author": "Yuko Kakihara",
+  "cover": "https://images2.imgbox.com/e1/1a/JRgyyRe1_o.jpg",
+  "chapters": {
+    "18": {
+      "title": "Volume 03",
+      "volume": "03",
+      "groups": {
+        "Official": "/proxy/api/imgbox/chapter/49iE7NZn4b/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
