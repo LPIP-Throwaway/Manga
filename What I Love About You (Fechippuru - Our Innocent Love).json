@@ -8,50 +8,50 @@
     "10": {
       "title": "Volume 01",
       "volume": "01",
+      "last_updated": "1616368746",
       "groups": {
         "Official": "/proxy/api/imgur/chapter/11Ns1sq/"
-      },
-      "last_updated": "1616368746"
+      }
     },
     "24": {
       "title": "Volume 02",
       "volume": "02",
+      "last_updated": "1616368746",
       "groups": {
         "Official": "/proxy/api/imgur/chapter/oqhqZo2/"
-      },
-      "last_updated": "1616368746"
+      }
     },
     "39": {
       "title": "Volume 03",
       "volume": "03",
+      "last_updated": "1616368746",
       "groups": {
         "Official": "/proxy/api/imgur/chapter/U2Poh4B/"
-      },
-      "last_updated": "1616368746"
+      }
     },
     "55": {
       "title": "Volume 04",
       "volume": "04",
+      "last_updated": "1616368746",
       "groups": {
         "Official": "/proxy/api/imgur/chapter/mn8QtGC/"
-      },
-      "last_updated": "1616368746"
+      }
     },
     "73": {
       "title": "Volume 05",
       "volume": "05",
+      "last_updated": "1616368746",
       "groups": {
         "Official": "/proxy/api/imgur/chapter/wml7XzS/"
-      },
-      "last_updated": "1616368746"
+      }
     },
-     "89": {
+    "89": {
       "title": "Volume 06 - Note 1 Thru 16",
       "volume": "06",
+      "last_updated": "1616368746",
       "groups": {
         "Official": "/proxy/api/imgur/chapter/nutB3Vb/"
-      },
-      "last_updated": "1616368746"
+      }
     }
   }
 }
