@@ -1,5 +1,5 @@
 {
-  "title": "MHA TUP V1",
+  "title": "MHA - TUM V1",
   "description": "MHA TUP V1",
   "artist": "Yoko Akiyama",
   "author": "Yoko Akiyama",
@@ -8,10 +8,10 @@
     "1": {
       "title": "Multiple",
       "volume": "1",
+      "last_updated": "1616896011",
       "groups": {
         "Official": "/proxy/api/imgur/chapter/J683RO4/"
-      },
-      "last_updated": "1616896011"
+      }
     }
   }
 }
